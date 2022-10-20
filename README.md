@@ -1,14 +1,14 @@
 # Flight App
 
 ## 1. Introduction
-Simple Android app displaying 5 interesting flights for destinations where they are unique everyday
+Simple Android app displaying 5 interesting flights for destinations where they are unique every day
+
 ## 2. Libraries
 - Compose
 - Retrofit
 - Coroutines
 - Dagger-hilt
 - MockK
-
 
 ## 3. Technical design
 - App follows MVVM with Clean Architecture.
